@@ -6,8 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		F229D6902F19FBE000E61B88 /* astonMartin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F229D68F2F19FBDF00E61B88 /* astonMartin.jpg */; };
+		F229D6942F19FF9000E61B88 /* lamba.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F229D6912F19FF9000E61B88 /* lamba.jpeg */; };
+		F229D6952F19FF9000E61B88 /* maser.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F229D6922F19FF9000E61B88 /* maser.jpg */; };
+		F229D6962F19FF9000E61B88 /* buga.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F229D6932F19FF9000E61B88 /* buga.jpeg */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		F229D6762F188AD500E61B88 /* CarShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F229D68F2F19FBDF00E61B88 /* astonMartin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = astonMartin.jpg; sourceTree = "<group>"; };
+		F229D6912F19FF9000E61B88 /* lamba.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lamba.jpeg; sourceTree = "<group>"; };
+		F229D6922F19FF9000E61B88 /* maser.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maser.jpg; sourceTree = "<group>"; };
+		F229D6932F19FF9000E61B88 /* buga.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = buga.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +43,10 @@
 		F229D66D2F188AD500E61B88 = {
 			isa = PBXGroup;
 			children = (
+				F229D6932F19FF9000E61B88 /* buga.jpeg */,
+				F229D6912F19FF9000E61B88 /* lamba.jpeg */,
+				F229D6922F19FF9000E61B88 /* maser.jpg */,
+				F229D68F2F19FBDF00E61B88 /* astonMartin.jpg */,
 				F229D6782F188AD500E61B88 /* CarShop */,
 				F229D6772F188AD500E61B88 /* Products */,
 			);
@@ -109,6 +124,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F229D6942F19FF9000E61B88 /* lamba.jpeg in Resources */,
+				F229D6952F19FF9000E61B88 /* maser.jpg in Resources */,
+				F229D6962F19FF9000E61B88 /* buga.jpeg in Resources */,
+				F229D6902F19FBE000E61B88 /* astonMartin.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
